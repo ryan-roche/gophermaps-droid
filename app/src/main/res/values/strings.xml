@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GopherMaps</string>
+    <string name="title_activity_gopher_maps">GopherMapsActivity</string>
+</resources>
