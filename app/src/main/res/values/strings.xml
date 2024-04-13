@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">GopherMaps</string>
     <string name="title_activity_gopher_maps">GopherMapsActivity</string>
+    <string name="choose_start">Where are you?</string>
+    <string name="choose_destination">Where do you want to go?</string>
+    <string name="route_summary">Route Preview</string>
+    <string name="instructions">Instructions:</string>
+    <string name="back_button">Back</string>
+    <string name="route_details">%s -> %s</string>
+
 </resources>
